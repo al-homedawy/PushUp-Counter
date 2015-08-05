@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PushUp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_push_up">PushUp</string>
+    <string name="title_activity_about">About</string>
+    <string name="credits">
+        \n\tPlease ensure that you body or face comes into close
+            proximity to the front of the phone as you preform
+            your pushups.\n\n\t\t
+            Created by Hussain Al-Homedawy.\n\t\t\t
+            h3alhome@uwaterloo.ca</string>
+
+</resources>
